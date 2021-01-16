@@ -2,7 +2,7 @@
 Simple Tools For Convert Youtube Video To mp3 (Coded In Python 3.x)
 
 <h2> Download Exe </h2>
-Download Here : https://github.com/NumeXx/YT-TO-MP3/blob/main/js-to-exe.exe
+Download Here : https://github.com/NumeXx/YT-TO-MP3/blob/main/yt-to-mp3.exe
 
 # DONATION
 <pre>
