@@ -6,6 +6,6 @@ Download Here : https://github.com/NumeXx/YT-TO-MP3/blob/main/yt-to-mp3.exe
 
 # DONATION
 <pre>
-<span class="pl-k">&gt;</spam><a href="https://www.paypal.com/paypalme/NumeXGans" rel="nofollow"><code> Paypal</code></a>
-<span class="pl-k">&gt;</spam> Gopay : 082198256727 - NumeX Gans
+<span class="pl-k">&gt;</span><a href="https://www.paypal.com/paypalme/NumeXGans" rel="nofollow"><code> Paypal</code></a>
+<span class="pl-k">&gt;</span> Gopay : 082198256727 - NumeX Gans
 </pre>
